@@ -1,0 +1,25 @@
+{
+  "name": "admin-ka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fedoroofexe/admin-ka.git"
+  },
+  "author": "sane4ka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fedoroofexe/admin-ka/issues"
+  },
+  "homepage": "https://github.com/Fedoroofexe/admin-ka#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
